@@ -1,4 +1,4 @@
-# Tutorial Mininet-WiFi #2: More Than one access
+# Mininet-WiFi Tutorial #2: More Than one access
 
 Pada tutorial #2 ini digunakan beberapa AP, yang akan menunjukkan cara
 membuat topologi jaringan yang lebih kompleks sehingga kita dapat bereksperimen
