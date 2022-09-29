@@ -37,5 +37,5 @@ Terimakasih kepada :
 
 Repository ini dibuat untuk edukasi Mininet WiFi pada pembelajaran mata kuliah Wireless Network.
 
-Partner
+Partner            :
 > [Muhammad Alfi Syahrial](https://github.com/muhammadalfi-sy)
