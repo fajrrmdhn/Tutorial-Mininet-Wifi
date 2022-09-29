@@ -35,5 +35,7 @@ Kali ini saya akan Menjelaskan Beberapa Tutorial Mininet Wifi yang akan berguna 
 Terimakasih kepada :
 > [Brian Linkletter](https://www.brianlinkletter.com/2016/04/mininet-wifi-software-defined-network-emulator-supports-wifi-networks/)
 
-Repository ini dibuat untuk edukasi Mininet WiFi pada pembelajaran mata kuliah Wireless Network. Partner saya dalam membuat repository ini :
+Repository ini dibuat untuk edukasi Mininet WiFi pada pembelajaran mata kuliah Wireless Network.
+
+Partner
 > [Muhammad Alfi Syahrial](https://github.com/muhammadalfi-sy)
