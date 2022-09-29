@@ -1,7 +1,9 @@
 # Tutorial-Mininet-Wifi
 
 <p align="center">
-<img height="50" height="auto" src=""https://user-images.githubusercontent.com/91620434/193042260-1971dd66-a137-48da-a0c6-39a33902db8d.png">
+![logo] (https://user-images.githubusercontent.com/91620434/193044035-a8de6e49-d31d-4585-8994-87c7a54021b3.png)
+
+
 </p>
 
 Mininet-WiFi adalah cabang dari emulator jaringan Mininet SDN. Pengembang Mininet-WiFi memperluas fungsionalitas Mininet dengan menambahkan stasiun WiFi virtual dan titik akses berdasarkan driver nirkabel Linux standar dan driver simulasi nirkabel 80211_hwsim. Mereka juga menambahkan kelas untuk memungkinkan penambahan perangkat nirkabel ini dalam skenario jaringan Mininet dan untuk mensimulasikan karakteristik stasiun bergerak seperti posisi dan pergerakan relatif terhadap titik akses.
