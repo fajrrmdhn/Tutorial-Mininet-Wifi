@@ -1,6 +1,6 @@
 # Tutorial-Mininet-Wifi
 
-<p align="center">
+
 ![logo](https://user-images.githubusercontent.com/91620434/193044329-170e9a25-a79d-4436-99fe-0f5edc25b86a.png)
 
 
