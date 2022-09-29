@@ -1,4 +1,4 @@
-## Tutorial Mininet-WiFi #4: Stasion yang bergerak (Mobile)
+## Mininet-WiFi Tutorial #4: Stasion yang bergerak (Mobile)
 
 Pada tutorial keempat ini, kita akan membuat sebuah skenario dimana sebuah station terhubung ke AP dan bergerak secara bebas. Station akan secara otomatis berganti dan terhubung ke AP terdekatnya (handover).  
 Sebagai contohnya, kita akan membuat skenario dimana terdapat 3 AP (ap1, ap2, dan ap3) dengan jarak yang berbeda satu sama lain. Lalu, terdapat sebuah host h1 yang bertindak sebagai test server dan sebuah mobile station bernama sta1 yang bergerak melewati ketiga AP tersebut. File coding disimpan dengan nama line.py dengan baris perintah sebagai berikut: 
