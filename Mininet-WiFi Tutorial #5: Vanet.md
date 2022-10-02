@@ -4,8 +4,8 @@ API Python pada Mininet-Wifi menambahkan sebuah fitur yang dapat kita manfaatkan
 Berikut adalah perintah yang digunakan pada Linux Ubuntu 22.04 LTS untuk menginstall repository SUMO: 
 
 ```
-sudo add-apt-repository ppa:sumo/stable sudo 
-apt-get update 
+sudo add-apt-repository ppa:sumo/stable 
+sudo apt-get update 
 sudo apt-get install sumo sumo-tools sumo-doc 
 ```
 Berikut merupakan syntax dari `vanet-sumo.py`:
