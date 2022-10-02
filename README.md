@@ -15,6 +15,9 @@ Mininet-WiFi memperluas kode Mininet dasar dengan menambahkan atau memodifikasi 
 
 Kali ini saya akan Menjelaskan Beberapa Tutorial Mininet Wifi yang akan berguna terutama pada mata kuliah wireless network.
 
+# CATATAN!!!
+PERLU DIINGAT ADIK ADIK, SEMUA PERINTAH/SYNTAX DI GITHUB INI HARAP DI CROSSCHECK KEMBALI JANGAN ASAL COPAS YA DEK!!! TIDAK SEMUA LINE SYNTAX BISA LANGSUNG ANDA PASTE DEK!!!
+
 ## Mininet-WiFi Tutorial #1: One access point (Satu Akses Poin)
 > [Tutor#1](https://github.com/fajrrmdhn/Tutorial-Mininet-Wifi/blob/main/Mininet-WiFi%20Tutorial%20%231%3A%20One%20access%20point..md) 
 
