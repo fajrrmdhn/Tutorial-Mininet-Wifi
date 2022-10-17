@@ -1,4 +1,7 @@
 File Python dibawah merupakan Tugas untuk memenuhi Mata Kuliah Wireless Network
+
+![image](https://user-images.githubusercontent.com/91620434/196104840-70074bba-8898-4a61-a8f7-aff3a96ece3e.png)
+
 ```
 #!/usr/bin/env python
 import sys
